@@ -1,0 +1,18 @@
+section{
+    background-color: darkorchid;
+    padding: 1rem;
+    margin: 1rem;
+}
+.paragraph{
+    background-color: wheat;
+    padding: 1rem;
+}
+.paragraph.dragging{
+    opacity: 0.3;
+}
+.trash-can{
+background-color: darkorchid;
+padding: 1rem;
+display: flex;
+justify-content: center;
+}
